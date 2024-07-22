@@ -1,5 +1,7 @@
 # PDF Merger Python Project
 
+<!-- ![Descriptive Alt Text](./src/assets/gemini-clone-project-1.png "Gemini Clone Project") -->
+
 ## Introduction
 
 Welcome to the PDF Merger Python Project! This project provides a simple tool to merge two PDF files into one. It's built using Python, a versatile and powerful programming language widely used for various applications, including web development, data analysis, artificial intelligence, and more.
@@ -59,3 +61,7 @@ This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
 - [GitHub](https://github.com/Hafeezbaig)
 - [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
 - [Instagram](https://www.instagram.com/mohammed_hafeez_baig/)
+
+## Feedback or Bugs report
+
+- [Talk](https://talk.hafeezbaig.in)
