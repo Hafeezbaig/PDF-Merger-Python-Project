@@ -1,6 +1,6 @@
 # PDF Merger Python Project
 
-<!-- ![Descriptive Alt Text](./src/assets/gemini-clone-project-1.png "Gemini Clone Project") -->
+![PDF Merger Python Project](./img/pdf-merger-python-project-1.png "PDF Merger Python Project")
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Before running this project, ensure you have Python installed on your system. Yo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Hafeezbaig/PDF-Merger-Python-Project.git
+   git clone https://github.com/Hafeezbaig/PDF-Merger-Python-Project
    cd PDF-Merger-Python-Project
    ```
 
